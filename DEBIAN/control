@@ -1,0 +1,10 @@
+Package: VMware-Workstation-17-pro-Installer
+Version: 1.0.0-2022.11.24
+Section: Software
+Priority: optional
+Architecture: amd64
+Installed-Size: 6000000
+Maintainer: way<way610@126.com>
+Provides: wayyyaw
+Description: vmware-workstation17-pro-installer
+

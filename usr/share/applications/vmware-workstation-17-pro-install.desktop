@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=vmwareinstall
+Name[zh_CN]=install-vmw17-pro
+Comment=vmware-workstation17pro安装器
+Type=Application
+Exec=sh /usr/bin/vmware17-installer-by_way.sh %u
+Icon=/usr/share/icons/vmw17installer_icon.png
+Categories=Development
+Terminal=true
+#希望能兼容deepin和uos，在ubuntu下没问题，佛祖保佑～
